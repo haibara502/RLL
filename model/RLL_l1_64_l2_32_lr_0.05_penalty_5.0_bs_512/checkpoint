@@ -1,0 +1,2 @@
+model_checkpoint_path: "/workspace/Guowei/rll/model/RLL_l1_64_l2_32_lr_0.05_penalty_5.0_bs_512/RLL_l1_64_l2_32_lr_0.05_penalty_5.0_bs_512.ckpt"
+all_model_checkpoint_paths: "/workspace/Guowei/rll/model/RLL_l1_64_l2_32_lr_0.05_penalty_5.0_bs_512/RLL_l1_64_l2_32_lr_0.05_penalty_5.0_bs_512.ckpt"
